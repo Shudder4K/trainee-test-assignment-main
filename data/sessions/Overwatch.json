@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "what is Overwatch?"
+    },
+    {
+        "role": "assistant",
+        "content": "Overwatch (abbreviated as OW) is a multimedia franchise centered on a series of multiplayer first-person shooter (FPS) video games developed by Blizzard Entertainment. The franchise includes the original game, released in 2016, and a successor, Overwatch 2, released in 2022. Both games feature hero-based combat between two teams of players vying over various objectives, along with other traditional gameplay modes.\n\nPlayers in Overwatch take on the roles of hero characters from a diverse roster, divided into three class types: Tanks, Damage, and Support. Each hero has a unique skill kit, including primary attacks, active skills, passive skills, and an Ultimate skill. Players can switch heroes during matches and customize their abilities with unique perks introduced in an update in 2025.\n\nThe game offers various modes, including standard matches, competitive play, and arcade modes, each with different objectives such as capturing points, escorting payloads, or controlling common points. Overwatch also has a vibrant community that creates fan content, including art, cosplay, fan fiction, and more.\n\nThe franchise's lore is disseminated through comics, animated short films, and other media, telling the story of a futuristic Earth recovering from past conflicts involving humans and omnics (AI robots). Overwatch is known for its esports scene, featuring events like the Overwatch World Cup and the Overwatch League.\n\nIn addition to the games, Overwatch has expanded into other forms of media, such as animated projects, comics, and novels. The franchise has received critical acclaim and commercial success, with a large player base and a dedicated fan following."
+    }
+]

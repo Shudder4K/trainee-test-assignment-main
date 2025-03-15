@@ -1,0 +1,6 @@
+uvicorn==0.29.0
+fastapi==0.110.3
+openai==1.66.2
+wikipedia-api
+python-dotenv
+pydantic
